@@ -1,0 +1,39 @@
+body{
+    height: 100vh;
+}
+
+header{
+    background-color: red;
+}
+
+footer{
+    background-color: brown;
+}
+
+.center{
+    background-color: purple;
+}
+
+.left{
+    background-color: green;
+}
+
+.right{
+    background-color: blue;
+}
+
+.q-1{
+    border: 2px solid aquamarine;
+}
+
+.q-2{
+    border: 2px solid yellow;
+}
+
+.q-3{
+    border: 2px solid violet;
+}
+
+.q-4{
+    border: 2px solid black;
+}

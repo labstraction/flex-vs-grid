@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    height: 200px;
+}
+
+footer{
+    height: 100px;
+}
+
+main{
+    flex:1;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left{
+    flex: 1;
+    min-width: 300px;
+}
+
+.right{
+    flex: 1;
+    min-width: 300px;
+}
+
+.center{
+    flex: 2;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.quadrant{
+    flex: 1;
+    min-width: 300px;
+}
